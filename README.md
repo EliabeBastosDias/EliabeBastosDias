@@ -22,17 +22,6 @@ Golang / Gin / Gorm / Clean architecture / Clean code / Unit Testing / REST / SQ
 
 Pyhton / Flask / Yolo / SQL /Docker
 
-## My GitHub Stats
-
-![Eliabe Bastos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=[your_github_username]&show_icons=true)
-
-## Technologies & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
-  <img src="https://img.shields.io/badge/-Golang-black?style=flat-square&logo=go" />
-  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
-</p>
-
 
 ## Let's Connect!
 <p align="center">
